@@ -1,5 +1,5 @@
 #### Welcome
-In this database we will store all the formal forms regarding our final project.
+In this repository we will store all the formal forms regarding our final project.
 
 Project partners:
 [Tom Latin](https://github.com/TomLatin) ,
